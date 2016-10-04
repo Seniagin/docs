@@ -1,6 +1,6 @@
 
 Установка syslog-ng: 
-```bash 
+``` 
 sudo apt-get install syslog-ng-core && sudo apt-get install syslog-ng
 ```
 
